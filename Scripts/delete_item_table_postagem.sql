@@ -1,0 +1,1 @@
+delete from postagem where id_post = 3
